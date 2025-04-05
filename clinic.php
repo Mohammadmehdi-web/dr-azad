@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="ThemeServices">
   <!-- Favicon Icon -->
-  <link rel="icon" href="assets/img/favicon.png">
+  <link rel="icon" href="assets/img/favicon.jpg">
   <!-- Site Title -->
   <title>Sex Problem Treatment | Clinic</title>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -63,6 +63,21 @@
     .block img {
       border-radius: 5px;
     }
+    .clinic-image{
+        height:280px !important;
+        object-fit: cover;
+    }
+    .cs_post.cs_style_1 .cs_post_subtitle {
+      font-size: 13px;
+    }
+    .clinic-image {
+      height: 100% !important;
+    }
+    .cs_post_subtitle {
+    font-size: 13px;
+    min-height: 88px;
+    }
+
   </style>
 </head>
 
@@ -96,110 +111,71 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
-              </a>
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
             </div>
             <div class="col-lg-6">
               <h3 class="cs_post_title"><a href='#'>Dr Azad Ayurveda Pvt Ltd, Mathura</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> Bihari Lal Plaza, Shop No. 10,11
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+                
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> Bihari Lal Plaza, Shop No. 10,11
                 1st Floor,
                 Near new Bus stand mathura, Mathura, 281001
-                Gareden,
-                Bhopal, 462010
+              
+        
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+
+              
             </div>
           </div>
           <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+            
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong> Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
-              </div>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
+              </div>            
             </div>
           </div>
         </article>
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
               <h3 class="cs_post_title"><a href='#'>Dr Azad Clinic Pvt Ltd,Morena</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> Near Sanjay Park Bus Stand,
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+                
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> Near Sanjay Park Bus Stand,
                 Market, Bairial, Morena, 476001
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+
+
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong> Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
           </div>
@@ -208,54 +184,34 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr Azad Ayurveda Pvt Ltd, Gwalior</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> Ganesh Plaza Morar Road Near Gole
+              <h3 class="cs_post_title">Dr Azad Ayurveda Pvt Ltd, Gwalior</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> Ganesh Plaza Morar Road Near Gole
                 ka mandir chauraha, Gwalior, 474005
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+
+             
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong>Zaid
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
-              </div>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
+              </div>            
             </div>
           </div>
         </article>
@@ -263,53 +219,33 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr Azad Clinic Pvt Ltd,Sagar</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> near shanidev mandir kabula pul,
+              <h3 class="cs_post_title">Dr Azad Clinic Pvt Ltd,Sagar</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+                
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> near shanidev mandir kabula pul,
                 Sagar, 470001
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+              
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+            
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong> Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
           </div>
@@ -318,53 +254,34 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr.Azad Clinic Pvt Ltd,Jhansi</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> shop no.43 kisan Bazar galla
+              <h3 class="cs_post_title">Dr.Azad Clinic Pvt Ltd,Jhansi</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> shop no.43 kisan Bazar galla
                 Mandi road, Jhansi, 284001
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+
+
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong> Abhishek 
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
           </div>
@@ -373,53 +290,34 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr Azad Ayurveda Pvt Ltd, Bhopal</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> House no. 17/A, 80 feet Road Sai
+              <h3 class="cs_post_title">Dr Azad Ayurveda Pvt Ltd, Bhopal</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+                
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> House no. 17/A, 80 feet Road Sai
                 Mazar,Ashoka Gareden, Bhopal, 462010
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+             
+              
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+            
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong>Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
           </div>
@@ -428,53 +326,33 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr Azad Ayurveda Pvt Ltd, Lucknow</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> 3rd Floor Manchanda house
+              <h3 class="cs_post_title">Dr Azad Ayurveda Pvt Ltd, Lucknow</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> 3rd Floor Manchanda house
                 building opposite Mahana petrol pump Alam Bagh lucknow, Lucknow, 226001
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative  block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+            
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong>Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
           </div>
@@ -483,52 +361,32 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr Azad Clinic Pvt Ltd Jaipur</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> ajmeeri gate, Jaipur, 302001
+              <h3 class="cs_post_title">Dr Azad Clinic Pvt Ltd Jaipur</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> ajmeeri gate, Jaipur, 302001
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative  block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+             
+
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+            
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong> Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
           </div>
@@ -537,53 +395,34 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr Azad Ayurveda Pvt Ltd, Agra</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> Hari Parwat,Near police station
+              <h3 class="cs_post_title">Dr Azad Ayurveda Pvt Ltd, Agra</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+
+              </div>
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> Hari Parwat,Near police station
                 Akhilesh Tower, Agra, 282002
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative  block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
+              
+
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong>Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
           </div>
@@ -592,56 +431,35 @@
         <article class="cs_post cs_style_1 pb-0">
           <div class="row">
             <div class="col-lg-6">
-              <a class='cs_post_thumbnail position-relative' href='#' style="height: 280px">
-                <img src="assets/img/post_1.jpg" alt="Post Thumbnail">
+                <img src="assets/img/post_1.jpg" alt="Post Thumbnail" class="clinic-image">
               </a>
             </div>
             <div class="col-lg-6">
-              <h3 class="cs_post_title"><a href='#'>Dr Azad Ayurveda Clinic Noida</a></h3>
-              <p class="cs_post_subtitle mt-3"><strong>Address:</strong> 1st Floor 62 Wave Silver Tower
+              <h3 class="cs_post_title">Dr Azad Ayurveda Clinic Noida</h3>
+              <div class="row mt-0">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
+                </div>
+
+              </div>
+
+              <p class="cs_post_subtitle mt-3"><strong><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/1A1A1A/place-marker.png" alt="place-marker"/> Address:</strong> 1st Floor 62 Wave Silver Tower
                 above Bikanerwala Sector 18, Noida, 201301
               </p>
 
-              <p class="cs_post_subtitle mt-0"><strong>Get Direction</strong>
-              </p>
-              <div class="row mt-0">
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative  block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-4">
-                  <a class='cs_post_thumbnail position-relative block' href='#'>
-                    <img src="assets/img/post_1.jpg" alt="Post Thumbnail" width="100%">
-                  </a>
-                </div>
-              </div>
             </div>
           </div>
-          <div class="cs_post_content position-relative">
-            <div class="row d-flex p-2 mt-4">
-              <div class="col-6">
-                <strong>Price:</strong> ₹ 500.00 at clinic
-              </div>
-              <div class="col-6">
-                <strong>MON-SUN:</strong> 10:00am 6:45pm
-              </div>
-            </div>
+           <div class="cs_post_content position-relative">
+
             <div class="row d-flex p-2 mt-4"
               style="background:#2ea6f7; color: white; border: 1px solid var(--border-color);">
-              <div class="col-5">
-                <strong>Call Clinic</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/officel/80/medical-doctor.png" alt="medical-doctor"/> Dr.</strong> Abhishek
               </div>
-              <div class="col-7 text-end">
-                <strong>Book Appointment</strong>
+              <div class="col-6">
+                <strong><img width="24" height="24" src="https://img.icons8.com/material-rounded/24/FFFFFF/alarm-clock--v1.png" alt="alarm-clock--v1"/> MON-SUN:</strong> 10:00am 6:45pm
               </div>
             </div>
-
           </div>
         </article>
       </div>
